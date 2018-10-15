@@ -1,5 +1,7 @@
 # DeepLogo
 
+Using this repository (https://github.com/satojkovic/DeepLogo) as reference 
+
 Data set : http://image.ntua.gr/iva/datasets/flickr_logos/
 
 A brand logo detection system using region-based convolutional neural networks.
